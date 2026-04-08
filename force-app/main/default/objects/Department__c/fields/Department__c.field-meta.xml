@@ -4,8 +4,8 @@
     <deleteConstraint>SetNull</deleteConstraint>
     <label>Department</label>
     <referenceTo>Department__c</referenceTo>
-    <relationshipLabel>Employees</relationshipLabel>
-    <relationshipName>Employees</relationshipName>
+    <relationshipLabel>Departments</relationshipLabel>
+    <relationshipName>Departments</relationshipName>
     <required>false</required>
     <trackTrending>false</trackTrending>
     <type>Lookup</type>
